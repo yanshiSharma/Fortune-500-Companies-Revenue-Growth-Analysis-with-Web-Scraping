@@ -55,9 +55,11 @@ Fortune-500-Companies-Revenue-Growth-Analysis-with-Web-Scraping/
 │                                  # growth, employees, industry, and geography
 │
 └── 📊 ANALYSIS_POWER_BI.pbix     # Single-page Power BI dashboard
-                                   # KPI cards · Top companies by revenue &
-                                   # growth · Employees by industry ·
-                                   # HQ-level revenue & growth table
+│                                   # KPI cards · Top companies by revenue &
+│                                  # growth · Employees by industry ·
+│                                  # HQ-level revenue & growth table
+│
+└── Dashboard Screenshot.png
 ```
 
 ---
