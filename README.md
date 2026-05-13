@@ -173,7 +173,7 @@ ALTER TABLE FORTUNE_500 ALTER COLUMN Employees INT;
 ### Fortune 500 — 2023 Analysis
 > *Single-page Power BI dashboard with industry slicer, 5 KPI cards, top companies by revenue & growth, employees by industry trend, and a headquarters-level revenue & growth table.*
 
-![Fortune 500 Dashboard](./Dashboard Screenshot.png)
+![Dashboard Screenshot](./Dashboard Screenshot.png)
 
 ---
 
